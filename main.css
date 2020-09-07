@@ -592,7 +592,7 @@ button:focus{
 
 @media screen and (max-width: 600px){
     body{
-        background: url("images/marble.jpg") no-repeat center fixed;
+        background: url("images/marble.jpg") repeat center fixed;
         
     }
 

@@ -784,7 +784,7 @@ button.ghost{
 
 @media screen and (max-width: 600px){
     body{
-        background: url("images/marble.jpg") no-repeat center fixed;
+        background: url("images/marble.jpg") repeat center fixed;
     }
 
     .signup-page{
@@ -810,7 +810,7 @@ button.ghost{
     }
 
     .nav-link{
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
 
     li {
@@ -881,7 +881,7 @@ button.ghost{
     }
     
     .forms button {
-       padding-bottom: 20px;
+       padding-bottom: 40px;
     }
 
     .details-form{
