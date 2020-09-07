@@ -555,41 +555,6 @@ button:focus{
 
 
 /*Start media queries*/
-@media screen and (max-width: 768px){
-   /* body{
-        background: url("images/marble.jpg") no-repeat center fixed;
-        background-size: cover;
-    }
-
-    .logo{
-        left: 30%;
-    }
-
-    .landing-text h1{
-        font-size:8rem;
-    }
-
-    .landing-text h2{
-        font-size:2rem;
-    }
-
-    .contact h2{
-        font-size: 10rem;
-    }
-
-    .nav-list{
-        flex-direction: column;
-    }
-
-    li{
-        margin: 2rem 0;
-    }
-
-    .nav-link{
-        font-size: 3rem;
-    }*/
-}
-
 @media screen and (max-width: 600px){
     body{
         background: url("images/marble.jpg") repeat center fixed;
@@ -614,7 +579,7 @@ button:focus{
 
     .landing-text h2{
         
-        font-size: 3rem; 
+        font-size: 2rem; 
         font-weight: 600; 
     }
 
@@ -634,7 +599,7 @@ button:focus{
         width: 90%;
     }
     .about h2 {
-        font-size: 8rem;
+        font-size: 5rem;
     }
     
     .contact {
