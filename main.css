@@ -605,8 +605,11 @@ button:focus{
         display: none;
     }
 
+    .landing-text {
+        width: 100%;
+    }
     .landing-text h1{
-        font-size: 6rem;  
+        font-size: 5rem;  
     }
 
     .landing-text h2{
@@ -631,7 +634,7 @@ button:focus{
         width: 90%;
     }
     .about h2 {
-        font-size: 4rem;
+        font-size: 5rem;
     }
     
     .contact {
