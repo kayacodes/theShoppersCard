@@ -591,6 +591,11 @@ button:focus{
 }
 
 @media screen and (max-width: 600px){
+    body{
+        background: url("images/marble.jpg") no-repeat center fixed;
+        
+    }
+
     .menu-toggler{
         top: 2.5rem;
         right: 2rem;
