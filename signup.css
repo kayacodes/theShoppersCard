@@ -881,7 +881,7 @@ button.ghost{
     }
     
     .forms button {
-       padding-bottom: 40px;
+       padding-bottom: 30px;
     }
 
     .details-form{
@@ -938,7 +938,7 @@ button.ghost{
         width: 90%;
         max-width: 90%;
         height: auto;
-        padding-top: 20px;
+        margin-top: 50px;
     }
     
     #points-footer{

@@ -611,6 +611,7 @@ button:focus{
 
     .landing-text h2{
         font-size: 2rem; 
+        padding-top: 50px;
         font-weight: 600; 
     }
 
