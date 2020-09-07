@@ -556,7 +556,7 @@ button:focus{
 
 /*Start media queries*/
 @media screen and (max-width: 768px){
-    body{
+   /* body{
         background: url("images/marble.jpg") no-repeat center fixed;
         background-size: cover;
     }
@@ -587,7 +587,7 @@ button:focus{
 
     .nav-link{
         font-size: 3rem;
-    }
+    }*/
 }
 
 @media screen and (max-width: 600px){
@@ -597,9 +597,7 @@ button:focus{
     }
     
     .logo{
-        font-size: 2.7rem;
-        margin-left: -5%;
-        margin-top: 2rem;
+        display: none;
     }
 
     .landing-text h1{
@@ -607,7 +605,7 @@ button:focus{
     }
 
     .landing-text h2{
-        font-size: 1.5rem; 
+        font-size: 2rem; 
         font-weight: 600; 
     }
 
@@ -627,7 +625,7 @@ button:focus{
         width: 90%;
     }
     .about h2 {
-        font-size: 6rem;
+        font-size: 4rem;
     }
     
     .contact {
